@@ -1,0 +1,7 @@
+.ql-container{
+  min-height: 250px;
+}
+
+.section > *{
+  margin: 10px 0px;
+}
